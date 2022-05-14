@@ -31,7 +31,11 @@ header {
     height: 319px;
     background-image: url(../img/banner.png);
     text-align: center;
-    color: white;
+    color: white; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
 }
 
 .menu {
